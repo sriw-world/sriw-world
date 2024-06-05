@@ -1,6 +1,6 @@
 ### Hi there  :wave: 💻
 
-<p> <a href="https://medium.com/@sarthak3398"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> </p>
+<p> <a href="https://medium.com/@sriwworldofcoding"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> </p>
 
 :boy:This is me always keen to learn and unskill in new technologies . My field of interest are Machine Learning, Natural Language Processing, Computer Vision, Devops, Big Data, Cloud technologies and have good command over it. 
 
@@ -27,9 +27,14 @@
 
 ---
 
+### My Udemy Course:<br>
+- [Apache Airflow Bootcamp: Hands-On Workflow Automation](https://www.udemy.com/course/apache-airflow-bootcamp-hands-on-workflow-automation/)
+
+### My Youtube Channel:<br>
+- [Sriw World of Coding](https://www.youtube.com/@sriwworldofcoding)
 
 ### My Latest Blogs:<br>
-
+- [Apache Airflow Bootcamp: Hands-On Workflow Automation](https://medium.com/@sriwworldofcoding/apache-airflow-bootcamp-hands-on-workflow-automation-fc92039ac37a)
 - [Integrating WordPress with AWS RDS On AWS Cloud](https://medium.com/analytics-vidhya/integrating-wordpress-with-aws-rds-on-aws-cloud-670edc59dc63?source=friends_link&sk=3d33da165970da96d20885d1d9f26479)
 - [Automating Hadoop Cluster Setup Using Ansible](https://sarthak3398.medium.com/automating-hadoop-cluster-setup-using-ansible-687b2f58d7d6)<br>
 - [Designing High Availability Architecture with AWS S3 and CloudFront](https://sarthak3398.medium.com/designing-high-availability-architecture-with-s3-and-cloudfront-67684d6aa879)<br>
